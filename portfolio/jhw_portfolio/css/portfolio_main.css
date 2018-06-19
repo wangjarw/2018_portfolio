@@ -238,7 +238,7 @@ figure{
 
 /*vid and overview*/
 .overview-accent-color-one{
-  color:#B35F5E;
+  color:#D69D53;
 }
 
 .overview-accent-color-two{
@@ -246,9 +246,12 @@ figure{
 }
 
 .overview-accent-color-three{
-  color:#D69D53;
+  color:#B35F5E;
 }
 
+.overview-accent-color-four{
+  color:#65B2C6;
+}
 
 .overview-section{
   padding-top:1rem;
