@@ -226,7 +226,7 @@ thru media queries at the end*/
 		max-width:60%;
 	}
 
-	.project-paragraph{
+	.project-paragraph, .paragraph-in-text{
 		max-width:60%;
 	}
 }
@@ -383,7 +383,7 @@ thru media queries at the end*/
 		justify-content: space-around;
 
 		margin: 3rem 0;
-		
+
 
 	}
 
