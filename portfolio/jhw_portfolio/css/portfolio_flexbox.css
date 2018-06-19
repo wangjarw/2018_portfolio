@@ -21,7 +21,7 @@ thru media queries at the end*/
 	-ms-justify-content: space-around;
 	justify-content: space-around;
 
-	margin:3.5rem 0;
+	margin:0.5rem 0;
 
 }
 
@@ -226,7 +226,7 @@ thru media queries at the end*/
 		max-width:60%;
 	}
 
-	.project-paragraph{
+	.project-paragraph, .paragraph-in-text{
 		max-width:60%;
 	}
 }
@@ -382,7 +382,8 @@ thru media queries at the end*/
 		-ms-justify-content: space-around;
 		justify-content: space-around;
 
-		margin: 7rem 0;
+		margin: 3rem 0;
+
 
 	}
 
