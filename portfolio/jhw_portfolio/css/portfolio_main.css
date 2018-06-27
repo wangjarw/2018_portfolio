@@ -302,6 +302,7 @@ nav {
 
 #homeNav{
     border-bottom-style:none;
+    margin-bottom: 0;
 }
 
 #big-intro{
