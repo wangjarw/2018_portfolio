@@ -113,6 +113,11 @@ img{
   max-width:60%;
 }
 
+.intro-img{
+  align-self: center;
+ width:100%;
+}
+
 #big-decoration{
   display:none;
 }
@@ -293,6 +298,14 @@ nav {
   border-bottom-style:dotted;
   border-color:#DBDBDB;
 
+}
+
+#homeNav{
+    border-bottom-style:none;
+}
+
+#big-intro{
+  /* margin-left:3.5rem; */
 }
 
 nav a:hover, nav a:focus {
@@ -607,7 +620,7 @@ nav li {
   padding-top:1.5rem;
   width:100%;
   margin-bottom:0;
-  background-color:#EAE9E9;
+  /* background-color:#EAE9E9; */
 }
 
 .recent-project-item {

@@ -29,6 +29,26 @@ thru media queries at the end*/
 	flex-basis:100%;
 }
 
+.landing-container{
+	-webkit-justify-display:flex;
+	display: -ms-flex;
+	display: flex;
+
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+
+	flex-direction: row;
+
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
+	justify-content: space-around;
+}
+
+.landing-item{
+	flex-basis:100%;
+}
+
 
 /*portfolio nav*/
 .nav-container{
@@ -219,7 +239,7 @@ thru media queries at the end*/
 	}
 
 	.project-image{
-		max-width:60%;
+		max-width:80%;
 	}
 
 	figCaption{
@@ -251,7 +271,7 @@ thru media queries at the end*/
 		padding-top:1.5rem;
 		width:100%;
 		bottom:0;
-		background-color:#EAE9E9;
+		/* background-color:#EAE9E9; */
 	}
 
 }
@@ -273,7 +293,7 @@ thru media queries at the end*/
 		padding-top:1.5rem;
 		width:100%;
 		bottom:0;
-		background-color:#EAE9E9;
+		/* background-color:#EAE9E9; */
 	}
 }
 
@@ -368,6 +388,15 @@ thru media queries at the end*/
 
 	}
 
+	#big-intro{
+		margin-left:3.8rem;
+	}
+
+
+.landing-item{
+	flex-basis:50%;
+}
+
 
 	.short-intro-container{
 		-webkit-justify-display:flex;
@@ -387,18 +416,23 @@ thru media queries at the end*/
 
 	}
 
+}
+
+/*homepage img*/
+@media(min-width:59.375em){
+
 	/*homapage image*/
 	#big-decoration{
 		display:block;
 		max-width:100%;
 		width:100%;
 		margin:0.6rem auto;
+		padding-left:5rem;
 	}
 
 	#small-decoration{
 		display:none;
 	}
-
 }
 
 /*project overview title*/
