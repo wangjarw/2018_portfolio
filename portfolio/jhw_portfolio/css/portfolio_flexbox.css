@@ -359,7 +359,7 @@ thru media queries at the end*/
 
 /*Nav*/
 /*port nav*/
-@media(min-width:31.25em){
+@media(min-width:31.875em){
 
 	.nav-logo{
 		margin-right:auto;
