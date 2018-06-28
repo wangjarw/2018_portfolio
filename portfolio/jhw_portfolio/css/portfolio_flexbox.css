@@ -496,3 +496,16 @@ thru media queries at the end*/
 		margin-left:9rem;
 	}
 }
+
+/*project image*/
+@media(min-width:31.25em){
+
+	.big-project-img{
+	  display:block;
+	}
+
+	.small-project-img{
+		display:none;
+	}
+
+}

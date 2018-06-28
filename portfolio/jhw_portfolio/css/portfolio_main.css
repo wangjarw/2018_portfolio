@@ -129,6 +129,7 @@ img{
   margin:0 auto;
 }
 
+
 .home-img{
   max-width:100%;
   margin-top:1rem;
@@ -200,6 +201,13 @@ figure{
 .small-image{
   width:100%;
 }
+
+/*project image*/
+.big-project-img{
+  display:none;
+}
+
+
 
 #contact{
   font-family:'Roboto', sans-serif;
