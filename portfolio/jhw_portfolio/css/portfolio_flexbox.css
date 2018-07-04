@@ -436,7 +436,7 @@ thru media queries at the end*/
 }
 
 /*project overview title*/
-@media(min-width:31.25em) and (max-width:60.25em){
+@media(min-width:31.25em) and (max-width:70.625em){
 
 	.project-title{
 		color:#3C3C3C;
@@ -457,12 +457,12 @@ thru media queries at the end*/
 	}
 }
 
-@media(min-width:60.25em){
+@media(min-width:70.625em){
 
 	.project-title{
 		color:#3C3C3C;
 		margin-left:1rem;
-		margin-top: 6.5rem;
+		margin-top: 4rem;
 		margin-bottom:0.8rem;
 		font-size:3.5rem;
 		font-family: 'Amiri', serif;
@@ -471,7 +471,7 @@ thru media queries at the end*/
 	.project-title-vid{
 		color:#3C3C3C;
 		margin-left:1rem;
-		margin-top: 6.5rem;
+		margin-top: 5rem;
 		margin-bottom:0.8rem;
 		font-size:3.5rem;
 		font-family: 'Amiri', serif;
