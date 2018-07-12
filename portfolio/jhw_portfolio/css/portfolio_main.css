@@ -167,8 +167,8 @@ p{
 }
 
 .in-para-overview-title{
-  margin:1rem auto;
-  padding-bottom:0.5rem;
+  margin:0.5rem auto;
+  padding-bottom:0;
   max-width:80%;
 }
 

@@ -243,7 +243,7 @@ thru media queries at the end*/
 	}
 
 	figCaption{
-		max-width:60%;
+		max-width:80%;
 	}
 
 	.project-paragraph, .paragraph-in-text{
@@ -428,6 +428,7 @@ thru media queries at the end*/
 		width:100%;
 		margin:0.6rem auto;
 		padding-left:5rem;
+		padding-right:5rem;
 	}
 
 	#small-decoration{
